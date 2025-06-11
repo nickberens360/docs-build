@@ -1,1 +1,0 @@
-import{H as s,d as a,c as o,o as t,w as c,b as r,e as l,A as d,z as n}from"./index-DcLyRgA3.js";const p=a({__name:"DocsColorsView",setup(i){return(_,e)=>(t(),o(n,{class:"colors-view"},{default:c(()=>[e[0]||(e[0]=r("h1",{class:"colors-title"},"Colors",-1)),l(d)]),_:1,__:[0]}))}}),C=s(p,[["__scopeId","data-v-0ea41f91"]]);export{C as default};

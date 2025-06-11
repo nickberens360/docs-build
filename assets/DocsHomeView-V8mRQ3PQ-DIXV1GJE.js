@@ -1,1 +1,0 @@
-import{H as o,d as a,a as s,k as t,o as n,e as r}from"./index-DcLyRgA3.js";const c={class:"docs-home"},m=a({__name:"DocsHomeView",setup(d){return(p,l)=>{const e=s("RouterView");return n(),t("div",c,[r(e)])}}}),u=o(m,[["__scopeId","data-v-6bbee717"]]);export{u as default};

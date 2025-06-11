@@ -1,1 +1,0 @@
-import{_ as s,k as o,b as t,o as a}from"./index-DcLyRgA3.js";const n={},i={class:"about"};function l(r,e){return a(),o("div",i,e[0]||(e[0]=[t("h1",null,"About This App",-1),t("p",null,"This is a simple Vue application with Vue Router installed.",-1)]))}const u=s(n,[["render",l]]);export{u as default};

@@ -1,1 +1,0 @@
-import{d as l,k as n,b as t,t as a,o as s}from"./index-DcLyRgA3.js";const c=l({__name:"SimpleTest",props:{text:{type:String,default:"Hello World"},message:{type:String,default:"Oh Heyyyyyy!!!"}},setup(e){return(o,r)=>(s(),n("div",null,[t("h1",null,a(e.text),1),t("p",null,a(e.message),1)]))}});export{c as _};
